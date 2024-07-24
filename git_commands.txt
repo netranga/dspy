@@ -1,0 +1,13 @@
+To stage all changes, you can use the following command in the terminal:
+git add .
+
+To stage specific files, run:
+git add <specific_file>
+git add <file1> <file2> ...
+
+
+Commit your staged changes with a descriptive message:
+git commit -m "Your commit message"
+
+Push your changes to the remote repository:
+git push
